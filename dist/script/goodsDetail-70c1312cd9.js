@@ -1,0 +1,1 @@
+"use strict";!function(){var o=$(".common-header"),e=$(".common-footer");o.load("../pages/header.html"),e.load("../pages/footer.html")}();
