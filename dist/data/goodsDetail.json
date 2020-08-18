@@ -1,12 +1,15 @@
 
-[  {"id":"0","type":["黑色","绿色"],
+[  {"id":"0","type":["黑色","绿色","金色"],
     "0":{"price":"299 元","del":"499 元","stock":"12","title":"小米时尚真无线耳机 黑色",
         "tip1":"","tip2":"高通芯片及蓝牙5.0技术 / 取出即连，左右任意切换 / 快充15分钟，使用3小时",
         "imgUrl":["../image/goodsDetail3-1.jpg","../image/goodsDetail3-2.jpg","../image/goodsDetail3-3.jpg",
                     "../image/goodsDetail3-4.jpg","../image/goodsDetail3-5.jpg"]},
     "1":{"price":"289 元","del":"399 元","stock":"0","title":"小米时尚真无线耳机 绿色",
         "tip1":"[热销]","tip2":"高通芯片及蓝牙5.0技术 / 取出即连，左右任意切换 / 快充15分钟，使用3小时",
-        "imgUrl":["../image/goodsDetail4-1.jpg","../image/goodsDetail4-2.jpg","../image/goodsDetail4-3.jpg"]}},
+        "imgUrl":["../image/goodsDetail4-1.jpg","../image/goodsDetail4-2.jpg","../image/goodsDetail4-3.jpg"]},
+    "2":{"price":"389 元","del":"499 元","stock":"0","title":"小米时尚真无线耳机 金色",
+        "tip1":"[热销]","tip2":"高通芯片及蓝牙5.0技术 / 取出即连，左右任意切换 / 快充15分钟，使用3小时",
+        "imgUrl":["../image/goodsDetail7-1.jpg","../image/goodsDetail7-2.jpg","../image/goodsDetail7-3.jpg"]}},
 
     {"id":"1","type":["黑色","白色"],
     "0":{"price":"99 元","del":"","stock":"120","title":"小米车载充电器快充版1A1C 100W",
